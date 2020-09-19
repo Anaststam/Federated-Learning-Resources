@@ -17,6 +17,7 @@ Collection of resources for Federated Learning.
 * [Federated Adversarial Domain Adaptation (ICLR 2020)](https://arxiv.org/pdf/1911.02054.pdf)
 * [Federated Multi Task Learning (NIPS 2017)](https://arxiv.org/pdf/1705.10467.pdf)
 * [Inverse Distance Aggregation for Federated Learning with Non-IID Data (MICCAI 2020)](https://arxiv.org/abs/2008.07665)
+* [Federated Learning with matched averaging (ICLR 2020)] (https://openreview.net/pdf?id=BkluqlSFDS)
 
 ## Feature Disentanglement
 
