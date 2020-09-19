@@ -20,6 +20,7 @@ Collection of resources for Federated Learning.
 * [Federated Learning with matched averaging (ICLR 2020)](https://openreview.net/pdf?id=BkluqlSFDS)
 * [Federated Optimization in Heterogeneous Networks (MLSys 2020)](https://arxiv.org/pdf/1812.06127.pdf)
 * [Federated Visual Classification with Real-World Data Distribution (CVPR 2020)](https://arxiv.org/pdf/2003.08082.pdf)
+* [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning (ICML 2020)](https://proceedings.icml.cc/static/paper_files/icml/2020/788-Paper.pdf)
 
 ## Feature Disentanglement
 
