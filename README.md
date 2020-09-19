@@ -31,6 +31,8 @@ Collection of resources for Federated Learning.
 
 ## Software
 
+* [Tensorflow](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
+
 ## Datasets
 
 * [Federated Vision Datasets (Google)](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
