@@ -9,4 +9,6 @@ Collection of resources for Federated Learning
 
 ## Domain Adaptation, Domain Shift in Federated Learning
 
+## Representation Disentanglement
+
 ## Software
