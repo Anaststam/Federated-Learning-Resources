@@ -32,6 +32,8 @@ Collection of resources for Federated Learning.
 
 ## Clustering in Federated Learning
 
+* [Clustered Federated Learning (NIPS 2018)](http://iphome.hhi.de/samek/pdf/SatFLNIPS19.pdf)
+
 ## Software
 
 * [Tensorflow](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
