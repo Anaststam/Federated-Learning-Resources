@@ -32,6 +32,7 @@ Collection of resources for Federated Learning.
 ## Software
 
 * [Tensorflow](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
+* [PyTorch, PySyft](https://github.com/OpenMined/PySyft)
 
 ## Datasets
 
