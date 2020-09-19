@@ -29,6 +29,8 @@ Collection of resources for Federated Learning.
 
 * [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
 
+## Clustering in Federated Learning
+
 ## Software
 
 * [Tensorflow](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)
