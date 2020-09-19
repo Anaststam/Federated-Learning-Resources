@@ -11,6 +11,7 @@ Collection of resources for Federated Learning.
 * Model Development
   
   1. [Communication Efficient Learning of Deep Networks from Decentralized Data (AISTATS 2016)](https://arxiv.org/pdf/1602.05629.pdf)
+  2. [Federated Learning: A guide to collaborative Training with Decentralized Sensitive data (inovex GmbH)](https://www.inovex.de/blog/federated-learning-collaborative-training-part-1/)
 
 ## Domain Adaptation, Domain Shift in Federated Learning
 
