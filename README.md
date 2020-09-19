@@ -1,6 +1,6 @@
 # Federated-Learning-Resources
 
-Collection of resources for Federated Learning
+Collection of resources for Federated Learning.
 
 ## A general overview of Federated Learning
 
