@@ -19,6 +19,7 @@ Collection of resources for Federated Learning.
 * [Inverse Distance Aggregation for Federated Learning with Non-IID Data (MICCAI 2020)](https://arxiv.org/abs/2008.07665)
 * [Federated Learning with matched averaging (ICLR 2020)](https://openreview.net/pdf?id=BkluqlSFDS)
 * [Federated Optimization in Heterogeneous Networks (MLSys 2020)](https://arxiv.org/pdf/1812.06127.pdf)
+* [Federated Visual Classification with Real-World Data Distribution (CVPR 2020)](https://arxiv.org/pdf/2003.08082.pdf)
 
 ## Feature Disentanglement
 
@@ -27,3 +28,7 @@ Collection of resources for Federated Learning.
 * [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
 
 ## Software
+
+## Datasets
+
+* [Federated Vision Datasets (Google)](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
