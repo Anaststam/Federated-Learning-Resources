@@ -15,6 +15,7 @@ Collection of resources for Federated Learning.
 ## Domain Adaptation, Domain Shift in Federated Learning
 
 * [Federated Adversarial Domain Adaptation (ICLR 2020)](https://arxiv.org/pdf/1911.02054.pdf)
+* [Federated Multi Task Learning (NIPS 2017)](https://arxiv.org/pdf/1705.10467.pdf)
 
 ## Feature Disentanglement
 
