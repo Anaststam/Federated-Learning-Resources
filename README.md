@@ -34,7 +34,8 @@ Collection of resources for Federated Learning.
 
 * [Clustered Federated Learning (NIPS 2018)](http://iphome.hhi.de/samek/pdf/SatFLNIPS19.pdf)
 * [Federated learning with hierarchical clustering of local updates to improve training on non-IID data (IJCNN 2020)](https://arxiv.org/pdf/2004.11791.pdf)
-* [An Efficient Framework for Clustered Federated Learning](https://arxiv.org/pdf/2006.04088.pdf)
+* [An Efficient Framework for Clustered Federated Learning (2020)](https://arxiv.org/pdf/2006.04088.pdf)
+* [Three Approaches for Personalization with Applications to Federated Learning (2020)](https://arxiv.org/pdf/2002.10619.pdf)
 
 ## Software
 
