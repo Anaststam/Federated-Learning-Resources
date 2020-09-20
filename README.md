@@ -26,6 +26,8 @@ Collection of resources for Federated Learning.
 
 ## Feature Disentanglement
 
+* [Privacy-preserving Representation Learning by Disentanglement (ICLR 2020)](https://openreview.net/attachment?id=rkewaxrtvr&name=original_pdf)
+
 ## Advances, Open Problems and Challenges in Federated Learning
 
 * [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
